@@ -1,0 +1,26 @@
+{
+  "name": "video-studio-project",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Main out/raw.mp4",
+    "lint": "tsc"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.1",
+    "@remotion/cli": "4.0.532",
+    "@remotion/media": "4.0.532",
+    "@remotion/three": "4.0.532",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.532",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/three": "0.186.0",
+    "typescript": "5.9.3"
+  }
+}
