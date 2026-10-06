@@ -1,6 +1,6 @@
 # video-studio
 
-一个用于 ClawsGO / Claude Code 的视频制作 skill，可以做 2D、3D 和混合视频。它把从需求到成片的流程都串起来了：
+一个用于 Claude Code 的视频制作 skill，可以做 2D、3D 和混合视频。它把从需求到成片的流程都串起来了：
 
 需求收集 → 参考素材分析 → 2~4 个方案（每个配 AI 样张）→ 分镜表 → Remotion 制作 → 配音、字幕、音乐踩点 → 联系表和 ffprobe 检查 → 交付 mp4
 
@@ -85,5 +85,3 @@ IMG_MODEL=gpt-image-2.5-flare   # 可选
 | 不用 skill | 5/10 | 约 17 分钟 | 约 12.8 万 |
 
 ---
-
-ClawsGO Science Agent
